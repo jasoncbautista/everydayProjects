@@ -1,7 +1,11 @@
 
 # Ideas 
 
-[] sandbox js
+[x] sandbox js
+    [ ] style
+    [ ] search through libs
+    [ ] select all /more than one / favs
+
 
 
 [] backbone x 
