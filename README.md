@@ -20,3 +20,14 @@
 
 [] git count lines contributed today
 
+
+
+[] vim plugin to auto indent long object into a nice format
+      {ugly: 'long', obj: 'injs'}
+
+
+      { 
+          ugly: 'long'
+          , obj: 'injs'
+
+      }
