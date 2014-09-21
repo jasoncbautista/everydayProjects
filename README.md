@@ -38,5 +38,10 @@
 
 []  jsonp.me
     -- take any xml / json  api and make into jsonp
-    -- simple python server
+
+[]  quickStore API
+ 
+    store data in simple to use APi (expires after x days)... limited amount.. but super quick
+    and dirty
+
 
