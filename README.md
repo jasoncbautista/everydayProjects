@@ -31,3 +31,7 @@
           , obj: 'injs'
 
       }
+
+[]  add / pull lil code snippets with github 
+    - example of common things I do.  / tagged
+    - vim script to search across them / shell script
