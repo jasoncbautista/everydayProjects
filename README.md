@@ -6,9 +6,19 @@
     [ ] search through libs
     [ ] select all /more than one / favs
 
+[ ] continuation passing style scheme, macros
+
+[ ] haskell, erlang
 
 
-[] backbone x 
+[ ] ruby
+
+[ ] .NET, C#
+
+
+[/ ] vim Plugin to generate  model, view , controller
+
+[x] backbone x 
 	model.getD('key', 'defaultValue');
 
 
