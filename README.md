@@ -1,8 +1,14 @@
 
 # Ideas 
 
+[ ] portfolio site widget for projects. Clean, CSS
 
-() own js front end framework
+
+[ ] html template
+
+
+[ ] own little js front end framework
+
 () no backend open source project
 [x] sandbox js
     [ ] style
