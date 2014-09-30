@@ -1,6 +1,9 @@
 
 # Ideas 
 
+
+() own js front end framework
+() no backend open source project
 [x] sandbox js
     [ ] style
     [ ] search through libs
