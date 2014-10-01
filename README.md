@@ -1,6 +1,12 @@
 
 # Ideas 
 
+
+[ ] cocoa touch
+[ ] swift
+[ ] canvasGame
+[ ] unrealEngine game
+
 [x] sandbox js
     [ ] style
     [ ] search through libs
@@ -48,4 +54,6 @@
     store data in simple to use APi (expires after x days)... limited amount.. but super quick
     and dirty
 
+
+[ ] script To make Model / View / Collection
 
