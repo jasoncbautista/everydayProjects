@@ -1,6 +1,9 @@
 
 # Ideas 
 
+
+[ ] create a chrome plugin  / phantom.js to take a screen shot of Gamification thing, and upload it somewhere
+	- html5
 [ ] portfolio site widget for projects. Clean, CSS
 
 
