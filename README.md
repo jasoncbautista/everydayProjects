@@ -2,6 +2,8 @@
 # Ideas 
 
 
+[ ] Smooth scroll Feed
+[ ] C / low level touch
 [ ] cocoa touch
 [ ] swift
 [ ] canvasGame
