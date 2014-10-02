@@ -1,7 +1,8 @@
 
 # Ideas 
 
-
+Behance chrome plugging
+Shell script to auto create git repos
 [ ] Smooth scroll Feed
 [ ] C / low level touch
 [ ] cocoa touch
