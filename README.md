@@ -7,14 +7,35 @@
 [ ] canvasGame
 [ ] unrealEngine game
 
+=======
+[ ] portfolio site widget for projects. Clean, CSS
+
+
+[ ] html template
+
+
+[ ] own little js front end framework
+
+() no backend open source project
 [x] sandbox js
     [ ] style
     [ ] search through libs
     [ ] select all /more than one / favs
 
+[ ] continuation passing style scheme, macros
+
+[ ] haskell, erlang
+ 
+[ ] obj-c  + flask
+
+[ ] ruby
+
+[ ] .NET, C#
 
 
-[] backbone x 
+[/ ] vim Plugin to generate  model, view , controller
+
+[x] backbone x 
 	model.getD('key', 'defaultValue');
 
 
