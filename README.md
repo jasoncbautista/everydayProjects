@@ -3,6 +3,11 @@
 
 [ ] plugin for behand
 
+Css copy layouts to practice
+Trampoline in js
+
+Behance chrome plugging
+Shell script to auto create git repos
 [ ] Smooth scroll Feed
 [ ] C / low level touch
 [ ] cocoa touch
