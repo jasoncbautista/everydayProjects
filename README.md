@@ -1,6 +1,9 @@
 
 # Ideas 
 
+
+[ ] simple web server in C  , erlang, haskell, scheme
+[ ] simple browser / curl browser
 [ ] plugin for behand
 
 Css copy layouts to practice
