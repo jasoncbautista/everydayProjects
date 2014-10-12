@@ -2,6 +2,8 @@
 # Ideas 
 
 
+[ ] js -> erlang style stynax, and message passing between server and backend
+
 [ ] simple web server in C  , erlang, haskell, scheme
 [ ] simple browser / curl browser
 [ ] plugin for behand
