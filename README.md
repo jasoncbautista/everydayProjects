@@ -2,6 +2,18 @@
 # Ideas 
 
 
+
+[ ] Data Visualization
+[ ] maps
+[ ] Timelines
+[ ] beautiful graphs
+[ ] D3
+[ ] canvas
+[ ] paralax animations
+
+
+
+
 [ ] js -> erlang style stynax, and message passing between server and backend
 
 [ ] simple web server in C  , erlang, haskell, scheme
