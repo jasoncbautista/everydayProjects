@@ -4,11 +4,17 @@
 
 
 [ ] Data Visualization
+
 [ ] maps
+
 [ ] Timelines
+
 [ ] beautiful graphs
+
 [ ] D3
+
 [ ] canvas
+
 [ ] paralax animations
 
 
