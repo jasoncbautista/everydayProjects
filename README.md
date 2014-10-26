@@ -18,6 +18,8 @@
 [ ] paralax animations
 
 
+[ ] css
+
 
 
 [ ] js -> erlang style stynax, and message passing between server and backend
