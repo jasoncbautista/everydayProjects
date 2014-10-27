@@ -1,7 +1,8 @@
 
 # Ideas 
 
-
+[ ] sports visulizations
+[ ] animate numbers up (at different speeds for each digit) .... look at presentation slide book.. also at android phones
 
 [ ] Data Visualization
 
