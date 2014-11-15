@@ -1,4 +1,16 @@
 
+# Multipliyer ideas:
+[ ] html.js
+[ ] sass.js
+
+
+[ ] slam.js
+--> make it use tempalte by default without needing to do HTML.get
+[ ] getcontext
+[ ] entity component based system
+
+[ ] framework built to interface with existing infrastructure
+
 # Ideas 
 
 
