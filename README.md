@@ -4,6 +4,16 @@
 
 [ ] js loader  by naming convention...
 /views/view_name
+
+View.Whatup
+
+or define a location:
+
+js_file_location: "path/to/some/file.js"
+
+.. but order matters
+
+
 [ ] console.log wrapper
 ---> saves some of your consoled objs, to access for later
 ---> makes debugging easier 
