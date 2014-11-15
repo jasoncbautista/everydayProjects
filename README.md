@@ -1,5 +1,15 @@
 
 # Multipliyer ideas:
+
+
+[ ] js loader  by naming convention...
+/views/view_name
+[ ] console.log wrapper
+---> saves some of your consoled objs, to access for later
+---> makes debugging easier 
+consoly.js
+
+
 [ ] html.js
 [ ] sass.js
 
