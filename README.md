@@ -13,6 +13,27 @@
 
 # Ideas 
 
+[ ] sports visulizations
+[ ] animate numbers up (at different speeds for each digit) .... look at presentation slide book.. also at android phones
+
+[ ] Data Visualization
+
+[ ] maps
+
+[ ] Timelines
+
+[ ] beautiful graphs
+
+[ ] D3
+
+[ ] canvas
+
+[ ] paralax animations
+
+
+[ ] css
+
+
 
 [ ] js -> erlang style stynax, and message passing between server and backend
 
