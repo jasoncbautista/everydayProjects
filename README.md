@@ -2,6 +2,14 @@
 # Multipliyer ideas:
 
 
+[] jsNew shell script / python script that creates a new html project with index 
+----> add libs like jquery, backbone, underscore, d3 by default / or choose?
+
+
+---> try out backbone vim plugins, also create  a bindAll generator (with Esprima, and /*nobind*/ to ommit methods)
+
+
+
 [ ] js loader  by naming convention...
 /views/view_name
 
