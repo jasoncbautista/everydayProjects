@@ -22,7 +22,7 @@ websites
 
 
 Any tool to prototype and make thigns quickly!
-spritekit, processing, unity, pixi.js, openframeworks, 
+spritekit, processing, unity, pixi.js, openframeworks,  opengl, python, haskell, erlang
 c4d, blender, maya, zbrush
 
 
