@@ -6,7 +6,8 @@ games:
 - coin rain
 - pop & free the creatures
 - eyerbrow raise game
-
+- yin yin bear against the bees
+- 
 
 ios:
 - reminder app
